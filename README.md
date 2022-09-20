@@ -1,11 +1,11 @@
-# Frontend Mentor - Todo app solution
+# Frontend Mentor - Advice generator app
 
 This is a solution to the [Advice generator app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 
 ## Table of contents
 
-- [Frontend Mentor - Todo app solution](#frontend-mentor---todo-app-solution)
+- [Frontend Mentor - Advice generator app](#frontend-mentor---advice-generator-app)
   - [Table of contents](#table-of-contents)
   - [Overview](#overview)
     - [The challenge](#the-challenge)
