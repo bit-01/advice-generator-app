@@ -6,13 +6,7 @@ export default function advice() {
     const path = 'advice'
     const errors = ref('')
 
-    const getRandomAdvice = async (cache = false) => {
-        if (cache == true) {
-            _axios.defaults.headers = {
-                'Pragma': 'no-cache',
-                'Cache-Control': 'no-cache'
-            }
-        }
+    const getRandomAdvice = async () => {
         let response = await _axios.get(path).catch((error) => {
             errors.value = error
         })
